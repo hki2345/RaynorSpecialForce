@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="KMacro.h">
+      <Filter>00 Core\Assistor</Filter>
+    </ClInclude>
+    <ClInclude Include="Stl_AID.h">
+      <Filter>00 Core\Assistor</Filter>
+    </ClInclude>
+    <ClInclude Include="SmartPtr.h">
+      <Filter>00 Core\Begin</Filter>
+    </ClInclude>
+    <ClInclude Include="Begin.h">
+      <Filter>00 Core\Begin</Filter>
+    </ClInclude>
+    <ClInclude Include="Begin_Updater.h">
+      <Filter>00 Core\Begin</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectXTex.h">
+      <Filter>02 Device\DirectX</Filter>
+    </ClInclude>
+    <ClInclude Include="KCore.h">
+      <Filter>00 Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Core_Class.h">
+      <Filter>00 Core</Filter>
+    </ClInclude>
+    <ClInclude Include="KWindow.h">
+      <Filter>01 WIndow</Filter>
+    </ClInclude>
+    <ClInclude Include="Mof_KWindow.h">
+      <Filter>01 WIndow</Filter>
+    </ClInclude>
+    <ClInclude Include="DXContainer.h">
+      <Filter>02 Device\DirectX</Filter>
+    </ClInclude>
+    <ClInclude Include="DXContainer_DE.h">
+      <Filter>02 Device\DirectX</Filter>
+    </ClInclude>
+    <ClInclude Include="KDevice.h">
+      <Filter>02 Device</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadStream.h">
+      <Filter>03 Manager\Stream</Filter>
+    </ClInclude>
+    <ClInclude Include="WriteStream.h">
+      <Filter>03 Manager\Stream</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseStream.h">
+      <Filter>03 Manager\Stream</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugManager.h">
+      <Filter>03 Manager\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1CompileSettings.h">
+      <Filter>03 Manager\Resource\Child\Font</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper.h">
+      <Filter>03 Manager\Resource\Child\Font</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>03 Manager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>03 Manager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>03 Manager\Resource\Child\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundDevice.h">
+      <Filter>03 Manager\Resource\Child\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>98 Component</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundPlayer.h">
+      <Filter>03 Manager\Resource\Child\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="KThread.h">
+      <Filter>03 Manager\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiCritical.h">
+      <Filter>03 Manager\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeManager.h">
+      <Filter>03 Manager\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>03 Manager\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Sampler.h">
+      <Filter>03 Manager\Resource\Child\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>03 Manager\Resource\Child\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="KImage.h">
+      <Filter>03 Manager\Resource\Child\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="KMesh.h">
+      <Filter>03 Manager\Resource\Child\Material</Filter>
+    </ClInclude>
+    <ClInclude Include="KBlend.h">
+      <Filter>03 Manager\Resource\Child\Material</Filter>
+    </ClInclude>
+    <ClInclude Include="KMaterial.h">
+      <Filter>03 Manager\Resource\Child\Material</Filter>
+    </ClInclude>
+    <ClInclude Include="Component_DE.h">
+      <Filter>98 Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>03 Manager\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderManager.h">
+      <Filter>03 Manager\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>03 Manager\Render\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="KFont.h">
+      <Filter>03 Manager\Resource\Child\Font</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer_Grid.h">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer_Mesh.h">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer_Rect.h">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderTarget.h">
+      <Filter>03 Manager\Render\Target</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderTarget_Multi.h">
+      <Filter>03 Manager\Render\Target</Filter>
+    </ClInclude>
+    <ClInclude Include="HSubTransCom.h">
+      <Filter>98 Component\CoreCom</Filter>
+    </ClInclude>
+    <ClInclude Include="Mof_State.h">
+      <Filter>03 Manager\State</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>03 Manager\State</Filter>
+    </ClInclude>
+    <ClInclude Include="StateManager.h">
+      <Filter>03 Manager\State</Filter>
+    </ClInclude>
+    <ClInclude Include="TransPosition.h">
+      <Filter>98 Component\CoreCom</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>98 Component\CoreCom</Filter>
+    </ClInclude>
+    <ClInclude Include="TheOne.h">
+      <Filter>99 TheOne</Filter>
+    </ClInclude>
+    <ClInclude Include="Mof_One.h">
+      <Filter>99 TheOne</Filter>
+    </ClInclude>
+    <ClInclude Include="SomeOne.h">
+      <Filter>99 TheOne</Filter>
+    </ClInclude>
+    <ClInclude Include="KFBX.h">
+      <Filter>03 Manager\Resource\Child\MeshContainer</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer_BonAni.h">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClInclude>
+    <ClInclude Include="KRay3D.h">
+      <Filter>03 Manager\Collision\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionManager.h">
+      <Filter>03 Manager\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="KCollision.h">
+      <Filter>03 Manager\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="KSphere_Col.h">
+      <Filter>03 Manager\Collision\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="KCollider3D_DE.h">
+      <Filter>03 Manager\Collision\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="KCollider2D_DE.h">
+      <Filter>03 Manager\Collision\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="KCollider2D.h">
+      <Filter>03 Manager\Collision\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="KM3.h">
+      <Filter>03 Manager\Resource\Child\MeshContainer</Filter>
+    </ClInclude>
+    <ClInclude Include="Bit_AID.h">
+      <Filter>00 Core\Assistor</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer_Effect.h">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer_Terrain.h">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture_Multi.h">
+      <Filter>03 Manager\Resource\Child\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader_Pixel.h">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader_Vertex.h">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="KShader.h">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader_Hul.h">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader_Domain.h">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader_GeoMetry.h">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="KMath.h">
+      <Filter>00 Core\Assistor</Filter>
+    </ClInclude>
+    <ClInclude Include="KStreamBuffer.h">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Changer_Animation.h">
+      <Filter>03 Manager\Resource\Child\MeshContainer</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect_Gaussian.h">
+      <Filter>03 Manager\Render\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="KPlane3D_Col.h">
+      <Filter>03 Manager\Collision\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer_Draw.h">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect_Bloom.h">
+      <Filter>03 Manager\Render\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="KBox_Col.h">
+      <Filter>03 Manager\Collision\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer_UI.h">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClInclude>
+    <ClInclude Include="KVideoCodec.h">
+      <Filter>03 Manager\Resource\Child\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="KVideo.h">
+      <Filter>03 Manager\Resource\Child\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer_AniEffect.h">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SmartPtr.cpp">
+      <Filter>00 Core\Begin</Filter>
+    </ClCompile>
+    <ClCompile Include="Begin.cpp">
+      <Filter>00 Core\Begin</Filter>
+    </ClCompile>
+    <ClCompile Include="Begin_Updater.cpp">
+      <Filter>00 Core\Begin</Filter>
+    </ClCompile>
+    <ClCompile Include="HDevice_DefaultData3D.cpp">
+      <Filter>02 Device</Filter>
+    </ClCompile>
+    <ClCompile Include="HDevice_DefaultData.cpp">
+      <Filter>02 Device</Filter>
+    </ClCompile>
+    <ClCompile Include="KCore.cpp">
+      <Filter>00 Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core_Class.cpp">
+      <Filter>00 Core</Filter>
+    </ClCompile>
+    <ClCompile Include="KWindow.cpp">
+      <Filter>01 WIndow</Filter>
+    </ClCompile>
+    <ClCompile Include="DXContainer.cpp">
+      <Filter>02 Device\DirectX</Filter>
+    </ClCompile>
+    <ClCompile Include="KDevice.cpp">
+      <Filter>02 Device</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadStream.cpp">
+      <Filter>03 Manager\Stream</Filter>
+    </ClCompile>
+    <ClCompile Include="WriteStream.cpp">
+      <Filter>03 Manager\Stream</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseStream.cpp">
+      <Filter>03 Manager\Stream</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugManager.cpp">
+      <Filter>03 Manager\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>03 Manager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>03 Manager\Resource\Child\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundDevice.cpp">
+      <Filter>03 Manager\Resource\Child\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp">
+      <Filter>98 Component</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundPlayer.cpp">
+      <Filter>03 Manager\Resource\Child\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="KThread.cpp">
+      <Filter>03 Manager\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiCritical.cpp">
+      <Filter>03 Manager\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeManager.cpp">
+      <Filter>03 Manager\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>03 Manager\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Sampler.cpp">
+      <Filter>03 Manager\Resource\Child\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>03 Manager\Resource\Child\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="KImage.cpp">
+      <Filter>03 Manager\Resource\Child\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="KMesh.cpp">
+      <Filter>03 Manager\Resource\Child\Material</Filter>
+    </ClCompile>
+    <ClCompile Include="KBlend.cpp">
+      <Filter>03 Manager\Resource\Child\Material</Filter>
+    </ClCompile>
+    <ClCompile Include="KMaterial.cpp">
+      <Filter>03 Manager\Resource\Child\Material</Filter>
+    </ClCompile>
+    <ClCompile Include="Component_DE.cpp">
+      <Filter>98 Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>03 Manager\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderManager.cpp">
+      <Filter>03 Manager\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>03 Manager\Render\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="KFont.cpp">
+      <Filter>03 Manager\Resource\Child\Font</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer_Grid.cpp">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer_Mesh.cpp">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer_Rect.cpp">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderTarget.cpp">
+      <Filter>03 Manager\Render\Target</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderTarget_Multi.cpp">
+      <Filter>03 Manager\Render\Target</Filter>
+    </ClCompile>
+    <ClCompile Include="HSubTransCom.cpp">
+      <Filter>98 Component\CoreCom</Filter>
+    </ClCompile>
+    <ClCompile Include="State.cpp">
+      <Filter>03 Manager\State</Filter>
+    </ClCompile>
+    <ClCompile Include="StateManager.cpp">
+      <Filter>03 Manager\State</Filter>
+    </ClCompile>
+    <ClCompile Include="TransPosition.cpp">
+      <Filter>98 Component\CoreCom</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>98 Component\CoreCom</Filter>
+    </ClCompile>
+    <ClCompile Include="TheOne.cpp">
+      <Filter>99 TheOne</Filter>
+    </ClCompile>
+    <ClCompile Include="SomeOne.cpp">
+      <Filter>99 TheOne</Filter>
+    </ClCompile>
+    <ClCompile Include="TheOne_Trans.cpp">
+      <Filter>98 Component\CoreCom</Filter>
+    </ClCompile>
+    <ClCompile Include="KFBX_Loader.cpp">
+      <Filter>03 Manager\Resource\Child\MeshContainer</Filter>
+    </ClCompile>
+    <ClCompile Include="KFBX.cpp">
+      <Filter>03 Manager\Resource\Child\MeshContainer</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer_BonAni.cpp">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClCompile>
+    <ClCompile Include="KRay3D.cpp">
+      <Filter>03 Manager\Collision\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionManager.cpp">
+      <Filter>03 Manager\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="KCollision.cpp">
+      <Filter>03 Manager\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="KSphere_Col.cpp">
+      <Filter>03 Manager\Collision\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="KCollider3D_DE.cpp">
+      <Filter>03 Manager\Collision\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="KCollider2D_DE.cpp">
+      <Filter>03 Manager\Collision\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="KCollider2D.cpp">
+      <Filter>03 Manager\Collision\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="KM3.cpp">
+      <Filter>03 Manager\Resource\Child\MeshContainer</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer_Effect.cpp">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer_Terrain.cpp">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture_Multi.cpp">
+      <Filter>03 Manager\Resource\Child\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader_Pixel.cpp">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader_Vertex.cpp">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="KShader.cpp">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader_Domain.cpp">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader_GeoMetry.cpp">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader_Hul.cpp">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="KMath.cpp">
+      <Filter>00 Core\Assistor</Filter>
+    </ClCompile>
+    <ClCompile Include="KStreamBuffer.cpp">
+      <Filter>03 Manager\Resource\Child\Material\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp">
+      <Filter>03 Manager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Changer_Animation.cpp">
+      <Filter>03 Manager\Resource\Child\MeshContainer</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect_Gaussian.cpp">
+      <Filter>03 Manager\Render\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="KPlane3D_Col.cpp">
+      <Filter>03 Manager\Collision\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer_Draw.cpp">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect_Bloom.cpp">
+      <Filter>03 Manager\Render\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="KBox_Col.cpp">
+      <Filter>03 Manager\Collision\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer_UI.cpp">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClCompile>
+    <ClCompile Include="KVideoCodec.cpp">
+      <Filter>03 Manager\Resource\Child\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="KVideo.cpp">
+      <Filter>03 Manager\Resource\Child\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer_AniEffect.cpp">
+      <Filter>03 Manager\Render\Child</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="DirectXTex.inl">
+      <Filter>02 Device\DirectX</Filter>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="00 Core">
+      <UniqueIdentifier>{a1238653-ec7e-499d-af4c-9c24f265a068}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 WIndow">
+      <UniqueIdentifier>{523c4d04-566e-45f4-870a-d3c8e9d551f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 Device">
+      <UniqueIdentifier>{0d8733cb-5bfc-4439-a7a6-5d4ae7a01e1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager">
+      <UniqueIdentifier>{c662c767-6440-441e-808b-45dc52f85903}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99 TheOne">
+      <UniqueIdentifier>{932a90e7-a05b-40dd-88d1-bbf7b70fb614}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00 Core\Assistor">
+      <UniqueIdentifier>{4fca9643-1870-4c94-bf84-995bf1be533d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00 Core\Begin">
+      <UniqueIdentifier>{8ceea11b-9bb2-494f-9da5-9f4ea7f04f6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98 Component">
+      <UniqueIdentifier>{a9b4beaa-12d4-471a-8455-6da00be4f10b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 Device\DirectX">
+      <UniqueIdentifier>{1a4a3004-7deb-49a9-8ed2-90ac77bf6bc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Input">
+      <UniqueIdentifier>{91efad0d-746e-4a10-9f45-edd013ff56eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Time">
+      <UniqueIdentifier>{94af7c4e-01c3-4d61-969f-e8536d99c295}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Collision">
+      <UniqueIdentifier>{fdf6ba0b-d2e0-43da-9276-663b27f7a166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Debug">
+      <UniqueIdentifier>{2ec30f6c-5268-4337-8417-0df3ef9842fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Resource">
+      <UniqueIdentifier>{bfd3ffe6-0d60-4ddd-a185-16e88d7ae981}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\State">
+      <UniqueIdentifier>{4353a49e-cbb4-4501-8dfb-8ef2b6230150}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Stream">
+      <UniqueIdentifier>{80d7ad72-85de-4f3b-b12d-470a41924cb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Thread">
+      <UniqueIdentifier>{019457c1-22aa-46d0-87a2-58d172730af2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Resource\Child">
+      <UniqueIdentifier>{f7626e9e-bdb7-4f06-bf4b-69285113cae8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Collision\2D">
+      <UniqueIdentifier>{cf0c50f2-dfd7-4ffb-a409-49ce3df8255c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Resource\Child\Font">
+      <UniqueIdentifier>{dcfbc7f2-b97a-407c-a406-a5519051e22a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Resource\Child\Sound">
+      <UniqueIdentifier>{600c6758-7d0d-43d0-af8e-fafe52896981}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Resource\Child\Image">
+      <UniqueIdentifier>{4943d81d-aa8d-410c-9f63-20e1f0440d8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Resource\Child\Material">
+      <UniqueIdentifier>{62a3ef34-c874-47be-a3cd-5bb48880c90d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98 Component\CoreCom">
+      <UniqueIdentifier>{bc36fb0a-48d0-4881-a8d1-9c57e3721a46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Render">
+      <UniqueIdentifier>{c5e0d843-29ae-49bb-8081-7d553456815a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Render\Child">
+      <UniqueIdentifier>{763ad756-f16e-417b-bfac-0c1a6d7b01e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Render\Target">
+      <UniqueIdentifier>{1f9396b3-1543-4be6-bca1-059984a21731}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Render\Light">
+      <UniqueIdentifier>{bad393a9-a664-42b0-9800-aee29bde6b9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Collision\3D">
+      <UniqueIdentifier>{6d8b0902-9f26-4782-b3b0-5525c4093707}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Resource\Child\MeshContainer">
+      <UniqueIdentifier>{df35e997-e966-4427-80da-39c09ab852f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Resource\Child\Material\Shader">
+      <UniqueIdentifier>{1ad12825-2543-4bf2-b88b-6708ec3cb2d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Render\Effect">
+      <UniqueIdentifier>{1452c542-4006-4751-a1d5-d994f9605c28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Manager\Resource\Child\Video">
+      <UniqueIdentifier>{e48d52fa-54b9-43a1-b734-46601bb54404}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

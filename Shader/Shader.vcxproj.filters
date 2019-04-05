@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Shader\Container">
+      <UniqueIdentifier>{897c1852-2af9-4cc1-b1be-1d8a9fda613d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\bin\Shader\Defferd.fx" />
+    <FxCompile Include="..\bin\Shader\DefferdLight.fx" />
+    <FxCompile Include="..\bin\Shader\ForwardLight.fx" />
+    <FxCompile Include="..\bin\Shader\GRID3D.fx" />
+    <FxCompile Include="..\bin\Shader\GTex.fx" />
+    <FxCompile Include="..\bin\Shader\GValue.fx" />
+    <FxCompile Include="..\bin\Shader\ImageShader.fx" />
+    <FxCompile Include="..\bin\Shader\Light.fx" />
+    <FxCompile Include="..\bin\Shader\MeshMat.fx" />
+    <FxCompile Include="..\bin\Shader\MeshMat_L.fx" />
+    <FxCompile Include="..\bin\Shader\NONE.fx" />
+    <FxCompile Include="..\bin\Shader\PIXLight.fx" />
+    <FxCompile Include="..\bin\Shader\PSOUT.fx" />
+    <FxCompile Include="..\bin\Shader\RECT3D.fx" />
+    <FxCompile Include="..\bin\Shader\ScreenMerge.fx" />
+    <FxCompile Include="..\bin\Shader\SkyBox.fx" />
+    <FxCompile Include="..\bin\Shader\TagetDebug.fx" />
+    <FxCompile Include="..\bin\Shader\TexShader.fx" />
+    <FxCompile Include="..\bin\Shader\VolumeMesh.fx" />
+    <FxCompile Include="..\bin\Shader\VTXLight.fx" />
+    <FxCompile Include="..\bin\Shader\BRectShader.fx" />
+    <FxCompile Include="..\bin\Shader\ColorShader.fx" />
+    <FxCompile Include="..\bin\Shader\BoneAni.fx" />
+    <FxCompile Include="..\bin\Shader\DefferdAni.fx" />
+    <FxCompile Include="..\bin\Shader\TerrainDefferd_Tessel.fx" />
+    <FxCompile Include="..\bin\Shader\Effect.fx" />
+    <FxCompile Include="..\bin\Shader\Forward.fx" />
+    <FxCompile Include="..\bin\Shader\Draw.fx" />
+    <FxCompile Include="..\bin\Shader\Bloom.fx" />
+    <FxCompile Include="..\bin\Shader\DebugShader.fx" />
+    <FxCompile Include="..\bin\Shader\Effect_Gaussian.fx" />
+    <FxCompile Include="..\bin\Shader\GameValue.fx" />
+    <FxCompile Include="..\bin\Shader\TerrainDefferd.fx" />
+    <FxCompile Include="..\bin\Shader\ANIEFFFECTMAT.fx" />
+  </ItemGroup>
+</Project>

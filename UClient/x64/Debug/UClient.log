@@ -1,0 +1,17 @@
+﻿  UClient.cpp
+  UContainer.cpp
+  UCore.cpp
+  코드를 생성하고 있습니다...
+DirectXTex_X64_DEBUG.lib(BC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_DEBUG.lib(BC.obj)' 또는 'D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_DEBUG.lib(BC4BC5.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_DEBUG.lib(BC4BC5.obj)' 또는 'D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_DEBUG.lib(BC6HBC7.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_DEBUG.lib(BC6HBC7.obj)' 또는 'D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_DEBUG.lib(DirectXTexCompress.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_DEBUG.lib(DirectXTexCompress.obj)' 또는 'D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_DEBUG.lib(DirectXTexConvert.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_DEBUG.lib(DirectXTexConvert.obj)' 또는 'D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_DEBUG.lib(DirectXTexD3D11.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_DEBUG.lib(DirectXTexD3D11.obj)' 또는 'D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_DEBUG.lib(DirectXTexDDS.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_DEBUG.lib(DirectXTexDDS.obj)' 또는 'D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_DEBUG.lib(DirectXTexImage.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_DEBUG.lib(DirectXTexImage.obj)' 또는 'D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_DEBUG.lib(DirectXTexMipMaps.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_DEBUG.lib(DirectXTexMipMaps.obj)' 또는 'D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_DEBUG.lib(DirectXTexTGA.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_DEBUG.lib(DirectXTexTGA.obj)' 또는 'D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_DEBUG.lib(DirectXTexUtil.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_DEBUG.lib(DirectXTexUtil.obj)' 또는 'D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_DEBUG.lib(DirectXTexWIC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_DEBUG.lib(DirectXTexWIC.obj)' 또는 'D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  UClient.vcxproj -> D:\Class\5.1\DirectX11\3D\RaynorSpecialForce\UClient\..\bin\UClient.exe

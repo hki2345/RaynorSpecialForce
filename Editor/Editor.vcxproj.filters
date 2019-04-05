@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>00 MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>00 MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="KEditor.cpp">
+      <Filter>00 MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Edit_Class.cpp">
+      <Filter>02 Launcher</Filter>
+    </ClCompile>
+    <ClCompile Include="Edit_SUpdater.cpp">
+      <Filter>02 Launcher</Filter>
+    </ClCompile>
+    <ClCompile Include="Edit_Launcher.cpp">
+      <Filter>02 Launcher</Filter>
+    </ClCompile>
+    <ClCompile Include="View_Device.cpp">
+      <Filter>01 SubWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="View_Edit.cpp">
+      <Filter>01 SubWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="Splitter_Edit.cpp">
+      <Filter>01 SubWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="View_Component.cpp">
+      <Filter>01 SubWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="View_ComponentDE.cpp">
+      <Filter>01 SubWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_FbxLoad.cpp">
+      <Filter>99 Dialog\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_KM3Loader.cpp">
+      <Filter>99 Dialog\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_MeshConv.cpp">
+      <Filter>99 Dialog\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_MainMenu.cpp">
+      <Filter>99 Dialog\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_TransPosition.cpp">
+      <Filter>99 Dialog\TransForm</Filter>
+    </ClCompile>
+    <ClCompile Include="DropEditor.cpp">
+      <Filter>99 Dialog\TransForm</Filter>
+    </ClCompile>
+    <ClCompile Include="TabDlg.cpp">
+      <Filter>99 Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="ComDlg.cpp">
+      <Filter>99 Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Force.cpp">
+      <Filter>99 Dialog\SC2</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Unit.cpp">
+      <Filter>99 Dialog\SC2</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Terrain.cpp">
+      <Filter>99 Dialog\SC2</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Editor.cpp">
+      <Filter>99 Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_UnitList.cpp">
+      <Filter>99 Dialog\SC2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>00 MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>00 MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>00 MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>00 MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="KEditor.h">
+      <Filter>00 MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Edit_Class.h">
+      <Filter>02 Launcher</Filter>
+    </ClInclude>
+    <ClInclude Include="Edit_SUpdater.h">
+      <Filter>02 Launcher</Filter>
+    </ClInclude>
+    <ClInclude Include="Edit_Launcher.h">
+      <Filter>02 Launcher</Filter>
+    </ClInclude>
+    <ClInclude Include="View_Device.h">
+      <Filter>01 SubWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="View_Edit.h">
+      <Filter>01 SubWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="Splitter_Edit.h">
+      <Filter>01 SubWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="View_Component.h">
+      <Filter>01 SubWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_FbxLoad.h">
+      <Filter>99 Dialog\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_KM3Loader.h">
+      <Filter>99 Dialog\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_MeshConv.h">
+      <Filter>99 Dialog\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_MainMenu.h">
+      <Filter>99 Dialog\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_TransPosition.h">
+      <Filter>99 Dialog\TransForm</Filter>
+    </ClInclude>
+    <ClInclude Include="DropEditor.h">
+      <Filter>99 Dialog\TransForm</Filter>
+    </ClInclude>
+    <ClInclude Include="TabDlg.h">
+      <Filter>99 Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="ComDlg.h">
+      <Filter>99 Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Force.h">
+      <Filter>99 Dialog\SC2</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Unit.h">
+      <Filter>99 Dialog\SC2</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Terrain.h">
+      <Filter>99 Dialog\SC2</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_Editor.h">
+      <Filter>99 Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_UnitList.h">
+      <Filter>99 Dialog\SC2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="00 MFC">
+      <UniqueIdentifier>{e0ad6559-ad8a-44f5-9676-32384b55163c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{d76d747b-9188-4360-986a-d68aa9485b23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 SubWindow">
+      <UniqueIdentifier>{a9561e62-a676-4ac9-9f5b-f955480045b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 Launcher">
+      <UniqueIdentifier>{ef02636b-a17a-48d7-b95f-22036842d7b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99 Dialog">
+      <UniqueIdentifier>{e978ff1d-f1f5-47e6-b2e2-51b294bcc52c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99 Dialog\FBX">
+      <UniqueIdentifier>{e6cabfa8-a982-42a4-869d-259584109944}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99 Dialog\Editor">
+      <UniqueIdentifier>{c0355155-ff05-480a-bc23-850ed75a3827}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99 Dialog\TransForm">
+      <UniqueIdentifier>{b0812132-5a39-40a9-ab10-47c9b38294f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99 Dialog\SC2">
+      <UniqueIdentifier>{e7078657-f126-4fd1-b676-a2332176df9f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Editor.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="ClassDiagram.cd" />
+    <None Include="resource.hm">
+      <Filter>00 MFC</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Editor.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Editor.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

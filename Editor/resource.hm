@@ -1,0 +1,4 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by Editor.rc
+//
+#define HIDC_UNITLIST                   0x81630453    // IDD_UNITLISTDLG

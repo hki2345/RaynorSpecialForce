@@ -1,0 +1,20 @@
+﻿  UClient.cpp
+  UContainer.cpp
+  UCore.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 14015 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+DirectXTex_X64_RELEASE.lib(BC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_RELEASE.lib(BC.obj)' 또는 'D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_RELEASE.lib(BC4BC5.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_RELEASE.lib(BC4BC5.obj)' 또는 'D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_RELEASE.lib(BC6HBC7.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_RELEASE.lib(BC6HBC7.obj)' 또는 'D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_RELEASE.lib(DirectXTexCompress.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_RELEASE.lib(DirectXTexCompress.obj)' 또는 'D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_RELEASE.lib(DirectXTexConvert.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_RELEASE.lib(DirectXTexConvert.obj)' 또는 'D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_RELEASE.lib(DirectXTexD3D11.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_RELEASE.lib(DirectXTexD3D11.obj)' 또는 'D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_RELEASE.lib(DirectXTexDDS.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_RELEASE.lib(DirectXTexDDS.obj)' 또는 'D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_RELEASE.lib(DirectXTexImage.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_RELEASE.lib(DirectXTexImage.obj)' 또는 'D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_RELEASE.lib(DirectXTexMipMaps.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_RELEASE.lib(DirectXTexMipMaps.obj)' 또는 'D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_RELEASE.lib(DirectXTexTGA.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_RELEASE.lib(DirectXTexTGA.obj)' 또는 'D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_RELEASE.lib(DirectXTexUtil.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_RELEASE.lib(DirectXTexUtil.obj)' 또는 'D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_X64_RELEASE.lib(DirectXTexWIC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_X64_RELEASE.lib(DirectXTexWIC.obj)' 또는 'D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  UClient.vcxproj -> D:\Class\5.1\DirectX11\3D\DirectX3D_FrameWork\UClient\..\bin\UClient.exe

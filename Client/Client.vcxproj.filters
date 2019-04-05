@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Launcher">
+      <UniqueIdentifier>{79485812-0431-453a-a263-bc807330f4b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{aff7a69e-706d-4380-a1ff-b7b6b249c605}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Start">
+      <UniqueIdentifier>{74db1b2f-f02f-4373-a29f-f97e399dc93e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\InGame">
+      <UniqueIdentifier>{4fe7f12c-3502-45c4-9f87-b5a368691320}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\End">
+      <UniqueIdentifier>{455a7507-f427-4a34-a76e-c97cb4b4818e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="KCoreLauncher.h">
+      <Filter>Launcher</Filter>
+    </ClInclude>
+    <ClInclude Include="EUpdater.h">
+      <Filter>Game\End</Filter>
+    </ClInclude>
+    <ClInclude Include="EBuilder.h">
+      <Filter>Game\End</Filter>
+    </ClInclude>
+    <ClInclude Include="GUpdater.h">
+      <Filter>Game\InGame</Filter>
+    </ClInclude>
+    <ClInclude Include="GBuilder.h">
+      <Filter>Game\InGame</Filter>
+    </ClInclude>
+    <ClInclude Include="SUpdater.h">
+      <Filter>Game\Start</Filter>
+    </ClInclude>
+    <ClInclude Include="SBuilder.h">
+      <Filter>Game\Start</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="KCoreLauncher.cpp">
+      <Filter>Launcher</Filter>
+    </ClCompile>
+    <ClCompile Include="EUpdater.cpp">
+      <Filter>Game\End</Filter>
+    </ClCompile>
+    <ClCompile Include="EBuilder.cpp">
+      <Filter>Game\End</Filter>
+    </ClCompile>
+    <ClCompile Include="GBuilder.cpp">
+      <Filter>Game\InGame</Filter>
+    </ClCompile>
+    <ClCompile Include="GUpdater.cpp">
+      <Filter>Game\InGame</Filter>
+    </ClCompile>
+    <ClCompile Include="SBuilder.cpp">
+      <Filter>Game\Start</Filter>
+    </ClCompile>
+    <ClCompile Include="SUpdater.cpp">
+      <Filter>Game\Start</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

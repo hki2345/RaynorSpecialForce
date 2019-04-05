@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="SC2Manager.h">
+      <Filter>SC2\SC2_Core</Filter>
+    </ClInclude>
+    <ClInclude Include="SC2_Camera.h">
+      <Filter>SC2\SC2_Core</Filter>
+    </ClInclude>
+    <ClInclude Include="SC2_Force.h">
+      <Filter>SC2\Force</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit_SkillObj.h">
+      <Filter>SC2\Force</Filter>
+    </ClInclude>
+    <ClInclude Include="Con_Class.h">
+      <Filter>SC2\SC2_Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Force_Unit.h">
+      <Filter>SC2\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="Container.h">
+      <Filter>SC2\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll_User.h">
+      <Filter>SC2\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll_AI.h">
+      <Filter>SC2\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll_Nova.h">
+      <Filter>SC2\Controller\Optimize</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll_Odin.h">
+      <Filter>SC2\Controller\Optimize</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll_Hyperion.h">
+      <Filter>SC2\Controller\Optimize</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll_Abrr.h">
+      <Filter>SC2\Controller\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll_Brutal.h">
+      <Filter>SC2\Controller\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll_Infested.h">
+      <Filter>SC2\Controller\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll_Ultra.h">
+      <Filter>SC2\Controller\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll_Zergling.h">
+      <Filter>SC2\Controller\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll_Medivac.h">
+      <Filter>SC2\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="Controll_NPC.h">
+      <Filter>SC2\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="OBJ_Bomb.h">
+      <Filter>SC2\Controller</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SC2Manager.cpp">
+      <Filter>SC2\SC2_Core</Filter>
+    </ClCompile>
+    <ClCompile Include="SC2_Camera.cpp">
+      <Filter>SC2\SC2_Core</Filter>
+    </ClCompile>
+    <ClCompile Include="SC2_Force.cpp">
+      <Filter>SC2\Force</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit_SkillObj.cpp">
+      <Filter>SC2\Force</Filter>
+    </ClCompile>
+    <ClCompile Include="Con_Class.cpp">
+      <Filter>SC2\SC2_Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Force_Unit.cpp">
+      <Filter>SC2\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="Container.cpp">
+      <Filter>SC2\Container</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll_User.cpp">
+      <Filter>SC2\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="User_Act.cpp">
+      <Filter>SC2\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll_AI.cpp">
+      <Filter>SC2\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy_Act.cpp">
+      <Filter>SC2\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="Force_Unit_GameAct.cpp">
+      <Filter>SC2\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll_Nova.cpp">
+      <Filter>SC2\Controller\Optimize</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll_Odin.cpp">
+      <Filter>SC2\Controller\Optimize</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll_Hyperion.cpp">
+      <Filter>SC2\Controller\Optimize</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll_Abrr.cpp">
+      <Filter>SC2\Controller\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll_Brutal.cpp">
+      <Filter>SC2\Controller\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll_Infested.cpp">
+      <Filter>SC2\Controller\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll_Ultra.cpp">
+      <Filter>SC2\Controller\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll_Zergling.cpp">
+      <Filter>SC2\Controller\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="User_UI.cpp">
+      <Filter>SC2\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll_Medivac.cpp">
+      <Filter>SC2\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="Controll_NPC.cpp">
+      <Filter>SC2\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="User_InGame.cpp">
+      <Filter>SC2\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="OBJ_Bomb.cpp">
+      <Filter>SC2\Controller</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="SC2">
+      <UniqueIdentifier>{89e52f51-fdfe-4552-b6eb-ec363262421c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\Unit">
+      <UniqueIdentifier>{c635a210-8df5-4254-99f4-f2540187b243}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\Building">
+      <UniqueIdentifier>{a6d02d37-26e1-4f14-bb05-66c83d44d72c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\Building\Protoss">
+      <UniqueIdentifier>{e75b841a-c3e5-4438-9d0a-ca790b2e09da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\Building\Terran">
+      <UniqueIdentifier>{788a8726-adc8-4e15-b070-9738db948dda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\SC2_Core">
+      <UniqueIdentifier>{2e479ec3-6390-4d74-acbe-3776fc5a8329}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\Container">
+      <UniqueIdentifier>{6a7b9693-c9d3-4f30-9426-f8b275d65e4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\Force">
+      <UniqueIdentifier>{62e8d1f1-aa15-4a9c-b61a-6a88dc44cde3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\Controller">
+      <UniqueIdentifier>{096e9e08-515a-421e-8317-8cc1236d31d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\Unit\Player">
+      <UniqueIdentifier>{07e89fa1-04b2-4dd5-8f31-c3d4d8bc314a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\Unit\NPC">
+      <UniqueIdentifier>{a467ad83-aeed-4832-9fe0-f4699e5bd27f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\Unit\Enemy">
+      <UniqueIdentifier>{b2f418f7-c0c5-4d07-b2f4-9c4b0f37c23e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\Controller\Optimize">
+      <UniqueIdentifier>{14ac4bae-7a54-4628-b42e-d1e3657e1896}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC2\Controller\Monster">
+      <UniqueIdentifier>{1e8ce769-bcad-4da3-8896-09ac48f0bd97}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

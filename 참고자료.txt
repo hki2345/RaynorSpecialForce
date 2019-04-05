@@ -1,0 +1,14 @@
+퐁 라이팅 관련 - https://www.3dgep.com/texturing-lighting-directx-11/#Lighting
+Browse - 에디터 활성화
+
+상대 경로
+http://help.autodesk.com/view/3DSMAX/2016/KOR/?guid=GUID-1DAA53B9-4B58-49C6-A1BA-D6E533396A63
+
+다음 진도?
+http://www.rastertek.com/tutdx11.html
+
+동영상
+https://docs.microsoft.com/ko-kr/windows/desktop/DirectShow/directshow-playback-example
+
+다이렉트 관련 정리 된 곳
+https://copynull.tistory.com/category/DirectX%2011%20%EA%B0%95%EC%A2%8C
