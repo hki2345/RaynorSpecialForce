@@ -1,0 +1,1 @@
+SC2PlugIn.zip filter=lfs diff=lfs merge=lfs -text
